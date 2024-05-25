@@ -34,32 +34,11 @@ export default hopeTheme({
         editLink: "Edit this page on GitHub",
       },
     },
-
-    /**
-     * Chinese locale config
-     */
-    "/zh/": {
-      // navbar
-      navbar: zhNavbar,
-
-      // sidebar
-      sidebar: zhSidebar,
-
-      footer: "「梦在前方,路在脚下」",
-
-      displayFooter: true,
-
-      // page meta
-      metaLocales: {
-        editLink: "在 GitHub 上编辑此页",
-      },
-    },
   },
 
   encrypt: {
     config: {
     //  "/example.html": ["1234"],
-    //  "/zh/example.html": ["1234"],
     },
   },
 
