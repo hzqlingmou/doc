@@ -3,18 +3,18 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://escaped.icu",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "逸燧",
+    url: "http://escaped.icu",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "http://pi.escaped.icu/1.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "hzqlingmou/doc",
 
   docsDir: "src",
 
@@ -26,7 +26,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "「梦在前方,路在脚下」",
 
       displayFooter: true,
 
@@ -45,7 +45,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "「梦在前方,路在脚下」",
 
       displayFooter: true,
 
@@ -58,8 +58,8 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
-      "/zh/demo/encrypt.html": ["1234"],
+    //  "/example.html": ["1234"],
+    //  "/zh/example.html": ["1234"],
     },
   },
 
