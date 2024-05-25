@@ -3,14 +3,19 @@ home: true
 icon: home
 title: 项目主页
 heroImage: false
-bgImage: https://pi.escaped.icu/mo/01.png
-bgImageDark: https://pi.escaped.icu/mo/02.png
-heroText: Escaped-Docs逸燧文档
-tagline: 逸燧撒嘛の文档
+bgImage: false
+bgImageDark: false
+heroText: Esca-Plugin差距文档
+tagline: Powered By EscaWorkTeam
 actions:
   - text: 指南
     icon: lightbulb
     link: ./guide/
+    type: primary
+    
+  - text: 加入我们
+    icon: project
+    link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=n-rxsoWq9qajpxL34p3jp9FcoBPqZFQr&authKey=855qQ7%2FjdshYtXTr8iVk2kXp2K75c23GUHiJzC7PGlRJlFWCPBWZBBUedpoFECpA&noverify=0&group_code=274549827
     type: primary
 
 
