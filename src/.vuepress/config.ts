@@ -6,14 +6,9 @@ export default defineUserConfig({
 
   locales: {
     "/": {
-      lang: "en-US",
-      title: "Escaped-Docs",
-      description: "EscapedSpark's docs",
-    },
-    "/zh/": {
       lang: "zh-CN",
-      title: "逸燧文档",
-      description: "逸燧撒嘛の文档",
+      title: "Esca-Plugin文档",
+      description: "逸燧插件文档",
     },
   },
 
