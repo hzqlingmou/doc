@@ -2,10 +2,10 @@
 home: true
 icon: home
 title: 项目主页
-heroImage: false
+heroImage: http://pi.escaped.icu/1.png
 bgImage: false
 bgImageDark: false
-heroText: Esca-Plugin差距文档
+heroText: Esca-Plugin插件文档
 tagline: Powered By EscaWorkTeam
 actions:
   - text: 指南
