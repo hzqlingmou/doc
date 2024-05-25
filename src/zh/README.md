@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 项目主页
-heroImage: http://pi.escaped.icu/1.png
+heroImage: false
 bgImage: https://pi.escaped.icu/mo/01.png
 bgImageDark: https://pi.escaped.icu/mo/02.png
 bgImageStyle:
