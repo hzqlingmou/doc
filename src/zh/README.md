@@ -5,8 +5,6 @@ title: 项目主页
 heroImage: false
 bgImage: https://pi.escaped.icu/mo/01.png
 bgImageDark: https://pi.escaped.icu/mo/02.png
-bgImageStyle:
-  background-attachment: fixed
 heroText: Escaped-Docs逸燧文档
 tagline: 逸燧撒嘛の文档
 actions:
