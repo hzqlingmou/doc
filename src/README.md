@@ -10,7 +10,7 @@ tagline: Powered By EscaWorkTeam
 actions:
   - text: 快速上手
     icon: lightbulb
-    link: ./guide/
+    link: /guide
     type: primary
     
   - text: 加入我们
