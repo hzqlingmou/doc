@@ -33,7 +33,7 @@ export default defineUserConfig({
   {
     text: "文档",
     icon: "book",
-    link: "/guide/",
+    link: "/guide",
     activeMatch: "^/$"
   },
   {
@@ -52,7 +52,7 @@ export default defineUserConfig({
   {
     text: "文档",
     icon: "book",
-    link: "/guide/",
+    link: "/guide",
     activeMatch: "^/$"
   },
   {
