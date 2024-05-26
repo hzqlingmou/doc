@@ -17,9 +17,9 @@ icon: lightbulb
 在Yunzai根目录执行即可
 > [!tip]
 >  如果你的网络环境较差，可使用ghproxy安装
-``` bash
-  git clone https://mirror.ghproxy.com/hzqlingmou/esca-plugin ./plugins/esca-plugin
-```
+> ``` bash
+> git clone https://mirror.ghproxy.com/hzqlingmou/esca-plugin ./plugins/esca-plugin
+> ```
 
 ## GitHub安装(国外推荐)(更新较快)
 ``` bash
