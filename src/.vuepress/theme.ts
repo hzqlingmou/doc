@@ -72,10 +72,6 @@ export default hopeTheme({
       demo: true,     // 代码演示
       include: true,  // 导入文件
       footnote: true, // 启用脚注
-      sub: true,	    // 启用下角标
-      sup: true,	    // 启用上角标
-      tabs: true,     // 启用选项卡
-      vPre: true,     // 启用 v-pre 容器
       alert: true,    //启用GFM警告容器
       stylize: [
         {
