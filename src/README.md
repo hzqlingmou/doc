@@ -8,7 +8,7 @@ bgImageDark: false
 heroText: Esca-Plugin插件文档
 tagline: Powered By EscaWorkTeam
 actions:
-  - text: 指南
+  - text: 快速上手
     icon: lightbulb
     link: ./guide/
     type: primary
