@@ -1,11 +1,11 @@
 ---
 home: true
 icon: home
-title: 项目主页
+title: 主页
 heroImage: http://pi.escaped.icu/1.png
 bgImage: false
 bgImageDark: false
-heroText: Esca-Plugin插件文档
+heroText: Esca-Plugin文档
 tagline: Powered By EscaWorkTeam
 actions:
   - text: 快速上手
