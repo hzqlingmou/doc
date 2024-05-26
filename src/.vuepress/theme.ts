@@ -21,10 +21,10 @@ export default hopeTheme({
   locales: {
     "/": {
       // navbar
-      navbar: enNavbar,
+      navbar: zhNavbar,
 
       // sidebar
-      sidebar: enSidebar,
+      sidebar: zhSidebar,
 
       footer: "「梦在前方,路在脚下」",
 
