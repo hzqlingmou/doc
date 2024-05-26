@@ -59,16 +59,26 @@ export default hopeTheme({
 
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
-      align: true,
       attrs: true,
-      codetabs: true,
       component: true,
-      demo: true,
-      figure: true,
-      imgLazyload: true,
-      imgSize: true,
-      include: true,
-      mark: true,
+      hint: true,	       // 提示容器
+      figure: true,      // 启用 figure 图片描述
+      imgLazyload: true, // 启用图片懒加载
+      imgMark: true,     // 启用图片标记
+      imgSize: true,     // 启用图片大小
+      codetabs: true,    // 多行代码块
+      mark: true,        //标记        
+      align: true,    // 自定义对齐
+      tasklist: true, // 任务列表
+      attrs: true,    // 属性支持
+      demo: true,     // 代码演示
+      include: true,  // 导入文件
+      footnote: true, // 启用脚注
+      sub: true,	    // 启用下角标
+      sup: true,	    // 启用上角标
+      tabs: true,     // 启用选项卡
+      vPre: true,     // 启用 v-pre 容器
+      alert: true,    //启用GFM警告容器
       stylize: [
         {
           matcher: "Recommended",
