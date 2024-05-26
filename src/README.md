@@ -22,7 +22,7 @@ actions:
 
 
 copyright: 「梦在前方,路在脚下」
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2024-present 逸燧EscapedSpark
+footer: 使用 MIT 协议, 版权所有 © 2024-present 逸燧EscapedSpark
 
 ---
 
