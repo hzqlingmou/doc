@@ -59,8 +59,6 @@ export default hopeTheme({
 
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
-      attrs: true,
-      component: true,
       hint: true,	       // 提示容器
       figure: true,      // 启用 figure 图片描述
       imgLazyload: true, // 启用图片懒加载
