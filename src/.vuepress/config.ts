@@ -31,6 +31,12 @@ export default defineUserConfig({
     activeMatch: "^/$",
   },
   {
+    text: "文档",
+    icon: "book",
+    link: "/guide/",
+    activeMatch: "^/$"
+  },
+  {
     text: "QQ交流群",
     icon: "laptop-code",
     link: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=I0219bfL6chF5MsvjG34Oq9joHciRV5m&authKey=TilsrwQPpq1zhU0LOyWczwBOlq7r8cF1acX5YE%2FDcZ%2B7rT8L%2FBoAKItfeE0mClsM&noverify=0&group_code=920749244",
@@ -42,6 +48,12 @@ export default defineUserConfig({
     icon: "laptop-code",
     link: "/",
     activeMatch: "^/$",
+  },
+  {
+    text: "文档",
+    icon: "book",
+    link: "/guide/",
+    activeMatch: "^/$"
   },
   {
     text: "联系方式",
