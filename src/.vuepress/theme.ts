@@ -73,7 +73,12 @@ export default hopeTheme({
       include: true,  // 导入文件
       footnote: true, // 启用脚注
       alert: true,    //启用GFM警告容器
+      playground: {
+        presets: ["ts", "vue"],
+      },
+      
       stylize: [
+      // 样式化
         {
           matcher: "Recommended",
           replacer: ({ tag }) => {
@@ -82,10 +87,6 @@ export default hopeTheme({
                 tag: "Badge",
                 attrs: { type: "tip" },
                 content: "Recommended",
-              };
-          },
-        },
-      ],
       sub: true,
       sup: true,
       tabs: true,
