@@ -18,20 +18,19 @@ icon: lightbulb
 > [!tip]
 >  如果你的网络环境较差，可使用ghproxy安装
 > ``` bash
-> git clone https://mirror.ghproxy.com/hzqlingmou/esca-plugin ./plugins/esca-plugin
+> git clone https://mirror.ghproxy.com/hzqlingmou/esca-pluginv3 ./plugins/esca-plugin
 > ```
 
 ## GitHub安装(国外推荐)(更新较快)
 ``` bash
-git clone https://github.com/hzqlingmou/esca-plugin ./plugins/esca-plugin
+git clone https://github.com/hzqlingmou/esca-pluginv3 ./plugins/esca-plugin
 ```
 ## 安装依赖
 ``` bash
 pnpm install --filter=esca-plugin
 ```
 
-# 当前功能
-![HELP](http://doc.escaped.icu)
+# [当前功能](http://doc.escaped.icu)
 
 ## 配置文件
 ``` yaml
