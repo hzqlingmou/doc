@@ -1,6 +1,6 @@
 ---
 title: 开始
-icon: lightbulb
+icon: lighthub
 ---
 
 <div align="center">
