@@ -8,7 +8,8 @@ icon: lighthub
 * # [v4适配版](/v4guide)
 * # [v3适配版](/v3guide)
 </div>
-# 联系方式<br>
+
+# 联系方式
 - [QQ2833598659](https://qm.qq.com/q/G0y1D5vYqc)
 - [加入EscaWorkTeam](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ux13uh14gzHEIqZZWTXsOxWmWKoFBdDy&authKey=iK2gSwrO6QNJSNVuGcbOjuDpMxQW9%2FuuhpqGC4Twyh5Su1pRXyv6Au2rjLOYZcQU&noverify=0&group_code=274549827)
 ### 交流群: 958866155<br>
