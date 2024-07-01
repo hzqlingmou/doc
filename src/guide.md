@@ -5,8 +5,8 @@ icon: lighthub
 <div align="center">
 
 
-* # [v4适配版](/guidev4)
-* # [v3适配版](/guidev4)
+* # [v4适配版](/v4guide)
+* # [v3适配版](/v3guide)
 </div>
 # 联系方式
 - [QQ2833598659](https://qm.qq.com/q/G0y1D5vYqc)
