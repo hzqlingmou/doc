@@ -83,10 +83,10 @@ export default defineUserConfig({
   
   plugins: {
     blog: true,
-  //   comment: {
-  //     provider: "Waline",
-  //     serverURL: "https://pinglun.botqsign.icu",
-  //   },
+    comment: {
+       provider: "Waline",
+       serverURL: "https://pinglun.botqsign.icu",
+    },
 
     components: {
       components: ["Badge", "VPCard"],
