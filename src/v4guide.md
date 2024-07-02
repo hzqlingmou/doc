@@ -1,6 +1,6 @@
 ---
 title: 开始使用v4适配版逸燧插件
-icon: lighthub
+icon: /g.png
 ---
 
 
