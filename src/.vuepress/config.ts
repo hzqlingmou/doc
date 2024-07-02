@@ -5,7 +5,7 @@ export default defineUserConfig({
 
   lang: "zh-CN",
   title: "Esca-Plugin文档",
-  description: "「我思故我在,一念定乾坤」",
+  description: "「自由朝天,向心出发」",
 
   theme: hopeTheme({
   hostname: "https://mister-hope.github.io",
