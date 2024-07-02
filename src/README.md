@@ -14,7 +14,7 @@ actions:
     type: primary
     
   - text: 加入我们
-    icon: /a.svg
+    icon: /team.png
     link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=n-rxsoWq9qajpxL34p3jp9FcoBPqZFQr&authKey=855qQ7%2FjdshYtXTr8iVk2kXp2K75c23GUHiJzC7PGlRJlFWCPBWZBBUedpoFECpA&noverify=0&group_code=274549827
     type: primary
 
