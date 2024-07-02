@@ -1,6 +1,6 @@
 ---
 title: 开始使用v3适配版逸燧插件
-icon: lightlub
+icon: /g.png
 ---
 
 <div align="center">
