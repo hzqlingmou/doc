@@ -13,16 +13,16 @@ actions:
     link: /guide
     type: primary
     
-  - text: 加入我们
-    icon: /team.png
-    link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=n-rxsoWq9qajpxL34p3jp9FcoBPqZFQr&authKey=855qQ7%2FjdshYtXTr8iVk2kXp2K75c23GUHiJzC7PGlRJlFWCPBWZBBUedpoFECpA&noverify=0&group_code=274549827
+  - text: 加入交流群
+    icon: comment
+    link: https://qm.qq.com/q/81OOnGuqvS
     type: primary
 
 
 
 
-copyright: 「梦在前方,路在脚下」
-footer: 使用 MIT 协议, 版权所有 © 2024-present 逸燧EscapedSpark
+copyright: © 2024-present <a href="https://escaped.icu">逸燧EscapedSpark</a>
+footer: 「梦在前方,路在脚下」
 
 ---
 

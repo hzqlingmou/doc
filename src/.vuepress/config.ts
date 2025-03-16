@@ -26,15 +26,13 @@ export default defineUserConfig({
   navbar: [
   {
     text: "首页",
-    icon: "laptop-code",
+    icon: "home",
     link: "/",
-    activeMatch: "^/$",
   },
   {
     text: "文档",
     icon: "book",
     link: "/guide",
-    activeMatch: "^/$"
   },
   ],
   sidebar: [
@@ -42,13 +40,11 @@ export default defineUserConfig({
     text: "首页",
     icon: "laptop-code",
     link: "/",
-    activeMatch: "^/$",
   },
   {
     text: "文档",
     icon: "book",
     link: "/guide",
-    activeMatch: "^/$"
   },
   ],
 
@@ -61,7 +57,6 @@ export default defineUserConfig({
     description: "高中在校生，独立开发者",
     intro: "https://escaped.icu",
     medias: {
-      QQ: "https://qm.qq.com/q/JDf3REVSMM",
       Gitee: "https://gitee.com/escaped-spark",
       GitHub: "https://github.com/hzqlingmou",
     },
